@@ -1,5 +1,4 @@
 # About Me:
-🖥️ I am currently working new projects to expend my knowledge such as;<br>- My personal website<br>- A game in Unity<br>- Any university projects<br><br>🎮 I enjoy playing games, programming and spending time with friends and family during my free time<br><br>🔗 My personal website - https://callum.koaladev.tech/<br><br>📧 callumfry57@gmail.com
 
 
 ## 🌐 Socials:
